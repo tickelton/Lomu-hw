@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name lomu)(type Legacy)(uri ${KIPRJMOD}/library/lomu.lib)(options "")(descr ""))
+  (lib (name mini-PCIe)(type Legacy)(uri ${KIPRJMOD}/../../kicad-libraries/mini-PCIe.lib)(options "")(descr ""))
 )
