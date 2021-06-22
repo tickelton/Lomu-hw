@@ -1298,4 +1298,8 @@ F 3 "~" H 7950 1500 50  0001 C CNN
 	1    7950 1500
 	0    1    1    0   
 $EndComp
+Text Notes 10800 7650 0    50   ~ 0
+v1.1
+Text Notes 8200 7650 0    50   ~ 0
+2021/06/22
 $EndSCHEMATC
